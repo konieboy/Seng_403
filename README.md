@@ -1,4 +1,19 @@
-# Seng_403
+# Team Blue Shirts 
+
+### SENG 403 Assignment 2 Winter 2016
+
+Authors:
+
+* Konrad Wisniewski
+
+* Hilmi Abou-Saleh
+
+* Chris Miller
+
+* Ali Kamran
+
+* Brian Lowe
+
 
 This is an overview of how this Repository is structured:
 
