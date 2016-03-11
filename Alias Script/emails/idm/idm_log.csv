@@ -1,0 +1,24 @@
+
+[('SIMPLE_NAME', 2)]
+76381;orkel;Oleg;None;NULL
+91973;markelog;Oleg;None;NULL
+
+[('LOCATION', 1), ('FULL_NAME', 1)]
+47972;renansaddam;Renan Gonalves;None;True B.V.
+442390;renan;Renan Gonalves;None;True B.V.
+
+[('SIMPLE_NAME', 2)]
+110498;NealKemp;Neal;None;NULL
+507747;nneal;Neal;None;NULL
+
+[('SIMPLE_NAME', 2)]
+68389;h31ix;Gravity;None;NULL
+506736;gravitylow;Gravity;None;NULL
+
+[('FULL_NAME', 1)]
+63519;mattwkelly;Matt Kelly;None;Facebook
+109533;mkelly12;Matt Kelly;None;ZURB
+
+[('FULL_NAME', 1)]
+207441;jonathanle;Jonathan Le;None;Twitter
+507753;jle;Jonathan Le;None;"""Twitter"
